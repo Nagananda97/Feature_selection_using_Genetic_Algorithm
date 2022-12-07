@@ -1,4 +1,4 @@
-# Feature_selection_using_Genetic_Algorithm
+# Feature selection using Genetic Algorithm
 Packages required: NumPy, Pandas, Matplotlib, Seaborn , Random, Statistics, Sklearn<br>
 
 Steps to execute<br>
